@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>HOME - Contact Hover</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="./styles/home-contact-hover.css"/>
+</head>
+<body>
+<div class="home-contact-hover-yxW">
+  <div class="auto-group-4qji-vMx">
+    <div class="auto-group-ghgw-3hU">
+      <p class="home-yr2">HOME</p>
+      <img class="rectangle-13-ujg" src="./assets/rectangle-13-YP4.png"/>
+    </div>
+    <div class="auto-group-v1sq-eSN">
+      <p class="intro-o4N">INTRO</p>
+      <p class="services-ut6">SERVICES</p>
+      <p class="portforlio-mvJ">PORTFORLIO</p>
+      <img class="rectangle-16-VrJ" src="./assets/rectangle-16-mHk.png"/>
+      <div class="line-1-3N2">
+      </div>
+    </div>
+    <div class="auto-group-cy6e-9vr">
+      <div class="auto-group-8vxg-uf8">
+        <p class="certificates-FU6">CERTIFICATES</p>
+        <p class="contact-mSS">CONTACT</p>
+      </div>
+      <img class="rectangle-16-uoY" src="./assets/rectangle-16.png"/>
+    </div>
+  </div>
+  <p class="welcome-to-salah-al-bashas-homepage-3uk">
+    <span class="welcome-to-salah-al-bashas-homepage-3uk-sub-0">Welcome to Salah Al-Basha’s </span>
+    <span class="welcome-to-salah-al-bashas-homepage-3uk-sub-1">homepage</span>
+    <span class="welcome-to-salah-al-bashas-homepage-3uk-sub-2">.</span>
+  </p>
+  <p class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte">
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte-sub-0">
+    I’m a data analysis and data visualization specialist currently 
+    <br/>
+    working as a Technical Support Advisor at 
+    </span>
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte-sub-1">Shopify</span>
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte-sub-2">. </span>
+  </p>
+  <div class="auto-group-tu5c-NsU">
+    <img class="github-logo-Jm8" src="./assets/github-logo-BVt.png"/>
+    <img class="linkedin-logo-T8E" src="./assets/linkedin-logo-wzJ.png"/>
+    <img class="email-logo-bkE" src="./assets/email-logo-5mk.png"/>
+  </div>
+  <div class="auto-group-jptu-XNz">
+    <div class="auto-group-mgqg-4dp">
+      <div class="auto-group-xzaa-13G">VISIT</div>
+      <div class="auto-group-rvfc-JYA">CONTACT</div>
+    </div>
+    <img class="rectangle-17-aEn" src="./assets/rectangle-17.png"/>
+  </div>
+</div>
+</body>
