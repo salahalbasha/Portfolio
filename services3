@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>SERVICES</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A200%2C400%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C400%2C600"/>
+  <link rel="stylesheet" href="./styles/services-t1Y.css"/>
+</head>
+<body>
+<div class="services-g26">
+  <div class="auto-group-7y8n-ymt">
+    <p class="home-KKx">HOME</p>
+    <p class="intro-Rtn">INTRO</p>
+    <p class="services-LVx">SERVICES</p>
+    <p class="portforlio-T4n">PORTFORLIO</p>
+    <p class="certificates-yop">CERTIFICATES</p>
+    <p class="contact-7v2">CONTACT</p>
+  </div>
+  <p class="services-TU6">SERVICES</p>
+  <p class="let-me-help-make-better-use-of-your-data-my-expertise-can-be-used-to-clean-analyse-interpret-and-visualize-your-data-PMk">
+  Let me help make better use of your data. My expertise can be used to clean, analyse, interpret and visualize your data.
+  <br/>
+  
+  </p>
+  <div class="auto-group-kqwg-TcW">
+    <img class="rectangle-24-PWA" src="./assets/rectangle-24.png"/>
+    <div class="auto-group-tyxg-Kuc">
+      <p class="data-management-2p2">Data Management</p>
+      <p class="data-harvesting-cleaning-and-reshaping-development-of-automated-workflows-jCe">
+      Data harvesting, cleaning and reshaping. Development of automated workflows.
+      <br/>
+      
+      </p>
+    </div>
+  </div>
+  <div class="line-2-QZg">
+  </div>
+  <div class="auto-group-vgwn-KwY">
+    <div class="auto-group-7ann-4eE">
+      <img class="github-logo-nq8" src="./assets/github-logo-Y5p.png"/>
+      <img class="linkedin-logo-Lbk" src="./assets/linkedin-logo-u22.png"/>
+      <img class="email-logo-Uxr" src="./assets/email-logo-xZ8.png"/>
+    </div>
+    <img class="rectangle-16-RNJ" src="./assets/rectangle-16-ifC.png"/>
+  </div>
+</div>
+</body>
