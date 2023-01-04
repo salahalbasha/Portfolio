@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>CERTIFICATES</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="./styles/certificates-7sg.css"/>
+</head>
+<body>
+<div class="certificates-UoC">
+  <div class="auto-group-8mbp-ceW">
+    <p class="home-98e">HOME</p>
+    <p class="intro-Gyx">INTRO</p>
+    <p class="services-cnv">SERVICES</p>
+    <p class="portforlio-mA2">PORTFORLIO</p>
+    <p class="certificates-5Rc">CERTIFICATES</p>
+    <p class="contact-Qyg">CONTACT</p>
+  </div>
+  <p class="professional-development-is-one-of-my-top-priorities-and-enrolling-in-online-courses-during-the-past-year-has-yeilded-an-exponential-learning-curve-MP8"> Professional development is one of my top priorities and enrolling in online courses during the past year has yeilded an exponential learning curve.</p>
+  <div class="auto-group-vtzs-xti">
+    <div class="auto-group-bpt6-JBt">
+      <div class="auto-group-nykz-oPY">
+        <img class="github-logo-kpa" src="./assets/github-logo-B8N.png"/>
+        <img class="linkedin-logo-3og" src="./assets/linkedin-logo-Rea.png"/>
+        <img class="email-logo-PsY" src="./assets/email-logo-Vjg.png"/>
+      </div>
+    </div>
+    <img class="rectangle-16-vca" src="./assets/rectangle-16-ukv.png"/>
+  </div>
+</div>
+</body>
