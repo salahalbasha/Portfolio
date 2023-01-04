@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>CONTACT</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="./styles/contact.css"/>
+</head>
+<body>
+<div class="contact-kY2">
+  <div class="auto-group-8vzs-HH4">
+    <p class="home-c4S">HOME</p>
+    <p class="intro-5Cv">INTRO</p>
+    <p class="services-Nxi">SERVICES</p>
+    <p class="portforlio-s8n">PORTFORLIO</p>
+    <p class="certificates-P78">CERTIFICATES</p>
+    <p class="contact-XDL">CONTACT</p>
+  </div>
+  <p class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp">
+    <span class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp-sub-0">
+    Feel free to contact me for any questions. For open-source projects, please open an 
+    <br/>
+    issue or pull a request on 
+    </span>
+    <span class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp-sub-1">Github</span>
+    <span class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp-sub-2">. If you want to follow my work, reach me on </span>
+    <span class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp-sub-3">LinkedIn</span>
+    <span class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp-sub-4">
+    . 
+    <br/>
+    Otherwise, send me an email at 
+    </span>
+    <span class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp-sub-5">salahalbasha12@yahoo.com</span>
+    <span class="feel-free-to-contact-me-for-any-questions-for-open-source-projects-please-open-an-issue-or-pull-a-request-on-github-if-you-want-to-follow-my-work-reach-me-on-linkedin-otherwise-send-me-an-email-at-salahalbasha12yahoocom-GRp-sub-6">
+    .
+    <br/>
+    
+    </span>
+  </p>
+  <div class="auto-group-4kyu-ejC">
+    <div class="auto-group-osvc-BDL">
+      <img class="rectangle-12-vgi" src="./assets/rectangle-12.png"/>
+      <p class="back-to-the-top-eMp">Back to the top</p>
+    </div>
+    <img class="rectangle-16-B6r" src="./assets/rectangle-16-bA2.png"/>
+  </div>
+  <div class="line-1-h5C">
+  </div>
+  <div class="auto-group-voes-qBQ">
+    <img class="github-logo-ZNJ" src="./assets/github-logo-wV4.png"/>
+    <img class="linkedin-logo-hzJ" src="./assets/linkedin-logo-kqG.png"/>
+    <img class="email-logo-eee" src="./assets/email-logo-pd8.png"/>
+  </div>
+  <p class="contact-x9Y">CONTACT</p>
+  <img class="rectangle-17-snJ" src="./assets/rectangle-17-tka.png"/>
+</div>
+</body>
