@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>PORTFOLIO</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="./styles/portfolio-gQS.css"/>
+</head>
+<body>
+<div class="portfolio-exJ">
+  <div class="auto-group-eksl-CD8">
+    <p class="home-udL">HOME</p>
+    <p class="intro-2T4">INTRO</p>
+    <p class="services-LCr">SERVICES</p>
+    <p class="portforlio-2rN">PORTFORLIO</p>
+    <p class="certificates-k1g">CERTIFICATES</p>
+    <p class="contact-H1c">CONTACT</p>
+  </div>
+  <div class="auto-group-k1rt-oke">
+    <img class="rectangle-16-8Y2" src="./assets/rectangle-16-yi2.png"/>
+    <p class="back-to-projects-SHp">Back to projects</p>
+    <img class="rectangle-18-Y5x" src="./assets/rectangle-18-jRt.png"/>
+    <p class="data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr">
+      <span class="data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr-sub-0">
+      Data preparation and cleaning was performed using Pandas and Numpy. Exploratory analysis and exploration of the dataset was executed using Matplotlib and Seaborn.
+      <br/>
+      
+      <br/>
+      The main results of this study have been obtained using Python. Visualizations that clearly and effectively communicate the insights and patterns present in the data were done using Tableau. All code for this interactive website is available on 
+      </span>
+      <span class="data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr-sub-1">Github</span>
+      <span class="data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr-sub-2">
+      . Feel free to contact me for further information.
+      <br/>
+      
+      <br/>
+      
+      <br/>
+      
+      </span>
+    </p>
+  </div>
+  <p class="us-car-accidents-8VQ">US Car Accidents</p>
+  <div class="auto-group-if3q-ABC">
+    <div class="auto-group-rmge-5ox">Description</div>
+    <div class="auto-group-mjdu-aVp">Methods</div>
+    <div class="auto-group-zj1g-3uC">Explore</div>
+    <div class="rectangle-21-Z6r">
+    </div>
+  </div>
+  <p class="introduction-HoY">Introduction</p>
+  <p class="exploratory-data-analysis-and-visualizations-c58">Exploratory Data Analysis and Visualizations</p>
+  <p class="car-accidents-are-a-significant-public-health-issue-and-understanding-the-factors-that-contribute-to-accidents-can-help-to-identify-ways-to-reduce-their-frequency-and-severity-secondly-car-accidents-can-have-significant-economic-consequences-such-as-lost-productivity-medical-costs-and-property-damage-so-understanding-the-costs-and-impacts-of-accidents-can-help-to-inform-policies-and-strategies-for-mitigating-their-effects-finally-studying-car-accident-datasets-can-help-to-improve-our-understanding-of-the-factors-that-contribute-to-accidents-such-as-driver-behavior-road-conditions-and-vehicle-design-and-can-support-the-development-of-new-technologies-and-strategies-for-improving-road-safety-pBC">
+  Car accidents are a significant public health issue and understanding the factors that contribute to accidents can help to identify ways to reduce their frequency and severity. Secondly, car accidents can have significant economic consequences, such as lost productivity, medical costs, and property damage, so understanding the costs and impacts of accidents can help to inform policies and strategies for mitigating their effects. Finally, studying car accident datasets can help to improve our understanding of the factors that contribute to accidents, such as driver behavior, road conditions and vehicle design, and can support the development of new technologies and strategies for improving road safety.
+  <br/>
+  
+  <br/>
+  
+  </p>
+</div>
+</body>
