@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>INTRO</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600"/>
+  <link rel="stylesheet" href="./styles/intro.css"/>
+</head>
+<body>
+<div class="intro-P54">
+  <div class="auto-group-ssmc-cTc">
+    <p class="home-Y6N">HOME</p>
+    <p class="intro-SxS">INTRO</p>
+    <p class="services-Pcn">SERVICES</p>
+    <p class="portforlio-vsc">PORTFORLIO</p>
+    <p class="certificates-3SS">CERTIFICATES</p>
+    <p class="contact-wGv">CONTACT</p>
+  </div>
+  <div class="auto-group-2ryp-gEW">
+    <div class="rectangle-5-QwC">
+    </div>
+    <p class="hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4">
+      <span class="hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-0">
+      Hi, I&#39;m Salah.
+      <br/>
+      
+      <br/>
+      I help companies and researchers analyse their datasets. 
+      <br/>
+      I am skilled for most data-science steps: data 
+      <br/>
+      pre-processing, application of statistical methods,
+      <br/>
+      data visualization and results-communication.
+      <br/>
+      
+      <br/>
+      After graduating with a 
+      </span>
+      <span class="hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-1">
+      Bachelor’s of Applied Mathematics
+      <br/>
+      
+      </span>
+      <span class="hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-2">and a </span>
+      <span class="hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-3">background in </span>
+      <span class="hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-4">Computer Science</span>
+      <span class="hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-5">
+       from Carleton
+      <br/>
+      University, I worked at Shopify as a Technical Support Advisor.
+      <br/>
+      
+      </span>
+    </p>
+  </div>
+  <div class="auto-group-tmqt-7uU">
+    <p class="sales-associate-eeW">Sales Associate</p>
+    <p class="bachelors-degree-ao4">Bachelor’s Degree</p>
+    <p class="personal-trainer-Kke">Personal Trainer</p>
+    <p class="support-advisor-U7k">Support Advisor</p>
+  </div>
+  <div class="auto-group-evmq-zbt">
+    <p class="popeyes-7wQ">Popeye’s </p>
+    <p class="item-2019-RBQ">2019</p>
+    <p class="carleton-u-xSE">Carleton U.</p>
+    <p class="item-2021-uMU">2021</p>
+    <p class="goodlife-FRL">Goodlife</p>
+    <p class="item-2022-zNv">2022</p>
+    <p class="shopify-X7x">Shopify</p>
+  </div>
+  <div class="auto-group-xg1x-shc">
+    <div class="line-2-QSe">
+    </div>
+    <div class="ellipse-1-87k">
+    </div>
+    <div class="line-3-TQv">
+    </div>
+    <div class="ellipse-2-Bbp">
+    </div>
+    <div class="line-4-gYa">
+    </div>
+    <div class="ellipse-3-QDg">
+    </div>
+    <div class="line-5-Yan">
+    </div>
+  </div>
+  <div class="auto-group-wqga-5qc">
+    <div class="auto-group-k8tu-poC">
+      <div class="auto-group-q5ni-94n">
+        <img class="github-logo-h6J" src="./assets/github-logo-jHt.png"/>
+        <img class="linkedin-logo-Erv" src="./assets/linkedin-logo-4cJ.png"/>
+        <img class="email-logo-NCS" src="./assets/email-logo-sfQ.png"/>
+      </div>
+    </div>
+    <img class="rectangle-16-hkW" src="./assets/rectangle-16-r8z.png"/>
+  </div>
+</div>
+</body>
