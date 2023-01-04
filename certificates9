@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>CERTIFICATES</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="./styles/certificates.css"/>
+</head>
+<body>
+<div class="certificates-u46">
+  <div class="auto-group-35jg-bhc">
+    <p class="home-9UE">HOME</p>
+    <p class="intro-fxN">INTRO</p>
+    <p class="services-b5L">SERVICES</p>
+    <p class="portforlio-vtJ">PORTFORLIO</p>
+    <p class="certificates-UQ2">CERTIFICATES</p>
+    <p class="contact-Q2n">CONTACT</p>
+  </div>
+  <div class="auto-group-mmmc-wHc">
+    <img class="rectangle-6-DF8" src="./assets/rectangle-6-Fez.png"/>
+    <img class="rectangle-60-jUN" src="./assets/rectangle-60.png"/>
+    <img class="rectangle-8-5YE" src="./assets/rectangle-8.png"/>
+    <img class="rectangle-17-q1c" src="./assets/rectangle-17-fr2.png"/>
+  </div>
+  <div class="auto-group-xump-yNi">
+    <img class="rectangle-7-uXG" src="./assets/rectangle-7-pdG.png"/>
+    <img class="rectangle-9-2rn" src="./assets/rectangle-9-hsg.png"/>
+    <img class="rectangle-10-z2v" src="./assets/rectangle-10.png"/>
+    <img class="rectangle-11-Kqt" src="./assets/rectangle-11-Lk2.png"/>
+  </div>
+  <p class="professional-development-is-one-of-my-top-priorities-and-enrolling-in-online-courses-during-the-past-year-has-yeilded-an-exponential-learning-curve-sMc"> Professional development is one of my top priorities and enrolling in online courses during the past year has yeilded an exponential learning curve.</p>
+  <div class="auto-group-nnnw-jPp">
+    <div class="auto-group-wkxy-UcJ">
+      <div class="auto-group-uu9y-9TY">
+        <img class="github-logo-tvv" src="./assets/github-logo-p9p.png"/>
+        <img class="linkedin-logo-r74" src="./assets/linkedin-logo-uRL.png"/>
+        <img class="email-logo-oHC" src="./assets/email-logo-3Mt.png"/>
+      </div>
+    </div>
+    <img class="rectangle-16-vsc" src="./assets/rectangle-16-Up2.png"/>
+  </div>
+</div>
+</body>
