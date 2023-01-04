@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>PORTFOLIO</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A200%2C400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C400"/>
+  <link rel="stylesheet" href="./styles/portfolio.css"/>
+</head>
+<body>
+<div class="portfolio-NCz">
+  <div class="auto-group-trxe-fC6">
+    <p class="home-NcJ">HOME</p>
+    <p class="intro-Ghg">INTRO</p>
+    <p class="services-bjx">SERVICES</p>
+    <p class="portforlio-uEr">PORTFORLIO</p>
+    <p class="certificates-ob8">CERTIFICATES</p>
+    <p class="contact-6KL">CONTACT</p>
+  </div>
+  <div class="line-1-2Tt">
+  </div>
+  <p class="portfolio-A4J">PORTFOLIO</p>
+  <p class="a-glimpse-of-the-projects-ive-been-working-on-Gd8">A glimpse of the projects I’ve been working on</p>
+  <div class="auto-group-kumc-wzA">
+    <div class="rectangle-18-GmY">
+    </div>
+    <div class="rectangle-19-p2N">
+    </div>
+    <div class="rectangle-20-xuG">
+    </div>
+  </div>
+  <div class="auto-group-bpju-hbx">
+    <div class="rectangle-21-PUn">
+    </div>
+    <div class="rectangle-22-joY">
+    </div>
+    <div class="rectangle-23-TUe">
+    </div>
+  </div>
+  <div class="line-2-bqk">
+  </div>
+  <div class="auto-group-fjrs-YFC">
+    <div class="auto-group-4txy-Gwt">
+      <img class="github-logo-nfL" src="./assets/github-logo-FMc.png"/>
+      <img class="linkedin-logo-KfG" src="./assets/linkedin-logo-Q5G.png"/>
+      <img class="email-logo-U2N" src="./assets/email-logo-M46.png"/>
+    </div>
+    <img class="rectangle-16-ar6" src="./assets/rectangle-16-2oU.png"/>
+  </div>
+</div>
+</body>
