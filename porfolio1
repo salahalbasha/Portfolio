@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>PORTFOLIO</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="./styles/portfolio-B8N.css"/>
+</head>
+<body>
+<div class="portfolio-n8r">
+  <div class="auto-group-obkn-vF4">
+    <p class="home-SUJ">HOME</p>
+    <p class="intro-VSa">INTRO</p>
+    <p class="services-pjk">SERVICES</p>
+    <p class="portforlio-ktJ">PORTFORLIO</p>
+    <p class="certificates-hYe">CERTIFICATES</p>
+    <p class="contact-13Y">CONTACT</p>
+  </div>
+  <div class="auto-group-i2pc-Lbc">
+    <div class="auto-group-ymrz-TRL">
+      <img class="rectangle-18-bnS" src="./assets/rectangle-18-tmG.png"/>
+      <p class="back-to-projects-JRx">Back to projects</p>
+    </div>
+    <img class="rectangle-16-CnE" src="./assets/rectangle-16-yAJ.png"/>
+  </div>
+  <p class="us-car-accidents-8A6">US Car Accidents</p>
+  <div class="auto-group-effy-dMk">
+    <div class="auto-group-gyw8-8JW">Description</div>
+    <div class="auto-group-ryus-28z">Methods</div>
+    <div class="auto-group-kjiw-KNz">Explore</div>
+    <div class="rectangle-21-PNr">
+    </div>
+  </div>
+  <p class="about-dataset-Hz2">About Dataset</p>
+  <p class="applications-of-dataset-nA6">Applications of Dataset</p>
+  <p class="links-tU2">Links</p>
+</div>
+</body>
