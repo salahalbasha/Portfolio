@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>HOME - Visit Hover</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="./styles/home-visit-hover.css"/>
+</head>
+<body>
+<div class="home-visit-hover-hQn">
+  <div class="auto-group-lyvy-DP8">
+    <div class="auto-group-44in-LyY">
+      <p class="home-Hdt">HOME</p>
+      <img class="rectangle-13-E3L" src="./assets/rectangle-13.png"/>
+    </div>
+    <div class="auto-group-6pt4-iDQ">
+      <div class="line-1-Qrv">
+      </div>
+    </div>
+    <img class="rectangle-14-YCS" src="./assets/rectangle-14-3AJ.png"/>
+  </div>
+  <p class="welcome-to-salah-al-bashas-homepage-fnr">
+    <span class="welcome-to-salah-al-bashas-homepage-fnr-sub-0">Welcome to Salah Al-Basha’s </span>
+    <span class="welcome-to-salah-al-bashas-homepage-fnr-sub-1">homepage</span>
+    <span class="welcome-to-salah-al-bashas-homepage-fnr-sub-2">.</span>
+  </p>
+  <p class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-tp2">
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-tp2-sub-0">
+    I’m a data analysis and data visualization specialist currently 
+    <br/>
+    working as a Technical Support Advisor at 
+    </span>
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-tp2-sub-1">Shopify</span>
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-tp2-sub-2">. </span>
+  </p>
+  <div class="auto-group-w8yy-sJa">
+    <img class="github-logo-zPC" src="./assets/github-logo-VaA.png"/>
+    <img class="linkedin-logo-jbg" src="./assets/linkedin-logo-gae.png"/>
+    <img class="email-logo-sht" src="./assets/email-logo-Nka.png"/>
+  </div>
+  <div class="auto-group-efcn-obY">
+    <div class="auto-group-47kg-8ti">
+      <div class="auto-group-ro46-UBt">VISIT</div>
+      <div class="auto-group-sxsn-8nE">CONTACT</div>
+    </div>
+    <img class="rectangle-16-2Mp" src="./assets/rectangle-16-dFQ.png"/>
+  </div>
+</div>
+</body>
