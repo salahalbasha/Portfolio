@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>SERVICES</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A200%2C400%2C600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C400%2C600"/>
+  <link rel="stylesheet" href="./styles/services-hqt.css"/>
+</head>
+<body>
+<div class="services-XPG">
+  <div class="auto-group-nn58-dx6">
+    <p class="home-MNJ">HOME</p>
+    <p class="intro-HFx">INTRO</p>
+    <p class="services-mB8">SERVICES</p>
+    <p class="portforlio-hqU">PORTFORLIO</p>
+    <p class="certificates-DJ2">CERTIFICATES</p>
+    <p class="contact-wzi">CONTACT</p>
+  </div>
+  <div class="line-1-J4a">
+  </div>
+  <p class="services-DSS">SERVICES</p>
+  <p class="let-me-help-make-better-use-of-your-data-my-expertise-can-be-used-to-clean-analyse-interpret-and-visualize-your-data-Hx6">
+  Let me help make better use of your data. My expertise can be used to clean, analyse, interpret and visualize your data.
+  <br/>
+  
+  </p>
+  <p class="creation-of-static-and-interactive-dataviz-and-dashboards-review-of-scientific-figures-K86">
+  Creation of static and interactive dataviz and dashboards, review of scientific figures.
+  <br/>
+  
+  </p>
+  <div class="auto-group-ktwx-NcA">
+    <img class="rectangle-25-Hz2" src="./assets/rectangle-25.png"/>
+    <p class="dataviz-dnz">Dataviz</p>
+  </div>
+  <div class="line-2-wog">
+  </div>
+  <div class="auto-group-ycee-FpN">
+    <div class="auto-group-vkun-xCz">
+      <img class="github-logo-5YW" src="./assets/github-logo-huU.png"/>
+      <img class="linkedin-logo-EAW" src="./assets/linkedin-logo.png"/>
+      <img class="email-logo-aVG" src="./assets/email-logo-XwY.png"/>
+    </div>
+    <img class="rectangle-16-XfQ" src="./assets/rectangle-16-4jt.png"/>
+  </div>
+</div>
+</body>
