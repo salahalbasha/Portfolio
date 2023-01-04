@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>HOME</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="./styles/home.css"/>
+</head>
+<body>
+<div class="home-6fc">
+  <div class="auto-group-chzz-hQW">
+    <div class="auto-group-yyvp-PKG">
+      <p class="home-JSE">HOME</p>
+      <img class="rectangle-13-XZt" src="./assets/rectangle-13-sKG.png"/>
+    </div>
+    <div class="auto-group-rnou-EDQ">
+      <p class="intro-x9Q">INTRO</p>
+      <p class="services-phQ">SERVICES</p>
+      <p class="portforlio-8CJ">PORTFORLIO</p>
+      <img class="rectangle-1-STt" src="./assets/rectangle-1.png"/>
+      <div class="line-1-kjU">
+      </div>
+    </div>
+    <div class="auto-group-xjg2-Dsx">
+      <div class="auto-group-vst2-y6S">
+        <p class="certificates-shc">CERTIFICATES</p>
+        <p class="contact-oLN">CONTACT</p>
+      </div>
+      <img class="rectangle-14-8tS" src="./assets/rectangle-14.png"/>
+    </div>
+  </div>
+  <p class="welcome-to-salah-al-bashas-homepage-rZY">
+    <span class="welcome-to-salah-al-bashas-homepage-rZY-sub-0">Welcome to Salah Al-Basha’s </span>
+    <span class="welcome-to-salah-al-bashas-homepage-rZY-sub-1">homepage</span>
+    <span class="welcome-to-salah-al-bashas-homepage-rZY-sub-2">.</span>
+  </p>
+  <p class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY">
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY-sub-0">
+    I’m a data analysis and data visualization specialist currently 
+    <br/>
+    working as a Technical Support Advisor at 
+    </span>
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY-sub-1">Shopify</span>
+    <span class="im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY-sub-2">. </span>
+  </p>
+  <div class="auto-group-rh1u-BZC">
+    <div class="auto-group-4cgr-W5g">
+      <div class="auto-group-glvy-EGa">VISIT</div>
+      <div class="auto-group-vvdl-5nz">CONTACT</div>
+    </div>
+    <div class="auto-group-prin-ydU">
+      <img class="rectangle-16-6xz" src="./assets/rectangle-16-4wU.png"/>
+    </div>
+  </div>
+  <div class="auto-group-zo6j-BjY">
+    <img class="github-logo-4oL" src="./assets/github-logo-GfC.png"/>
+    <img class="linkedin-logo-zgz" src="./assets/linkedin-logo-nMY.png"/>
+    <img class="email-logo-jPg" src="./assets/email-logo.png"/>
+  </div>
+</div>
+</body>
