@@ -1,0 +1,249 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.portfolio-9kW {
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  width: 100%;
+
+  .auto-group-qpar-VZU {
+    display: flex;
+    align-items: center;
+    width: 133.9rem;
+    height: 3.7rem;
+    position: absolute;
+    left: 5rem;
+    top: 4.3rem;
+
+    .home-mmt {
+      color: #a5742b;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      margin-right: 34.1rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .intro-5na {
+      color: #000000;
+      white-space: nowrap;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      flex-shrink: 0;
+      cursor: pointer;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .services-2C2 {
+      margin-right: 3.3rem;
+      cursor: pointer;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-size: 3rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .portforlio-m9c {
+      color: #a5742b;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+    }
+    .certificates-WN6 {
+      margin-right: 3.3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      cursor: pointer;
+      font-size: 3rem;
+    }
+    .contact-2rE {
+      cursor: pointer;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+  }
+  .auto-group-vp6z-aMx {
+    align-items: flex-start;
+    width: 74.6rem;
+    height: 12.4rem;
+    position: absolute;
+    left: 64.3rem;
+    top: 88rem;
+    display: flex;
+
+    .auto-group-m8an-76z {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      margin-right: 47.3rem;
+      height: 100%;
+      align-items: center;
+
+      .rectangle-18-rKU {
+        height: 9.1rem;
+        cursor: pointer;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 0rem 0.8rem 0.1rem;
+        width: 12.4rem;
+      }
+      .back-to-projects-wri {
+        white-space: nowrap;
+        flex-shrink: 0;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .rectangle-16-rCz {
+      width: 12rem;
+      height: 10.9rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+  .us-car-accidents-PCv {
+    left: 55.3rem;
+    text-align: center;
+    font-size: 4rem;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    width: 33.2rem;
+    height: 4.9rem;
+    position: absolute;
+    top: 9.8rem;
+    font-weight: 400;
+    color: #000000;
+  }
+  .auto-group-v39c-4pr {
+    width: 120.9rem;
+    height: 7.2rem;
+    position: absolute;
+    left: 8.8rem;
+    top: 17.2rem;
+    display: flex;
+    align-items: center;
+
+    .auto-group-lx1g-CAN {
+      width: 25.6rem;
+      font-weight: 400;
+      white-space: nowrap;
+      justify-content: center;
+      flex-shrink: 0;
+      margin-right: 5.5rem;
+      font-size: 3rem;
+      line-height: 1.2125;
+      background-color: #cebca1;
+      display: flex;
+      align-items: center;
+      height: 100%;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .auto-group-uuhc-5zr {
+      font-size: 3rem;
+      line-height: 1.2125;
+      color: #000000;
+      display: flex;
+      align-items: center;
+      width: 25.6rem;
+      justify-content: center;
+      flex-shrink: 0;
+      height: 100%;
+      white-space: nowrap;
+      background-color: #cebba0;
+      margin-right: 6.5rem;
+      font-weight: 400;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .auto-group-j4qq-n8a {
+      width: 25.6rem;
+      line-height: 1.2125;
+      white-space: nowrap;
+      display: flex;
+      margin-right: 6.5rem;
+      font-size: 3rem;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+      flex-shrink: 0;
+      height: 100%;
+      justify-content: center;
+      background-color: #e8b76d;
+      font-weight: 400;
+    }
+    .rectangle-21-Un6 {
+      cursor: pointer;
+      background-color: #cebca1;
+      flex-shrink: 0;
+      width: 25.6rem;
+      height: 7.2rem;
+    }
+  }
+  .welcome-PeA {
+    left: 9.5rem;
+    line-height: 1.2125;
+    top: 26.7rem;
+    font-size: 4rem;
+    font-weight: 400;
+    color: #000000;
+    width: 17.3rem;
+    height: 4.9rem;
+    cursor: pointer;
+    position: absolute;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .words-spE {
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    height: 3.1rem;
+    position: absolute;
+    top: 33.8rem;
+    font-size: 2.5rem;
+    font-weight: 400;
+    width: 7.5rem;
+    left: 9.5rem;
+    color: #000000;
+  }
+}
