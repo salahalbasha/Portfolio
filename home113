@@ -1,0 +1,318 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-6fc {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+
+  .auto-group-chzz-hQW {
+    top: 4.3rem;
+    display: flex;
+    align-items: flex-start;
+    width: 133.9rem;
+    height: 53.9rem;
+    position: absolute;
+    left: 5rem;
+
+    .auto-group-yyvp-PKG {
+      margin-right: 7.5rem;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .home-JSE {
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #a5742b;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 22.2rem;
+        font-size: 3rem;
+      }
+      .rectangle-13-XZt {
+        margin-left: 5.9rem;
+        width: 25.7rem;
+        height: 18.5rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .auto-group-rnou-EDQ {
+      margin-right: 0.5rem;
+      width: 55.7rem;
+      height: 100%;
+      position: relative;
+      flex-shrink: 0;
+
+      .intro-x9Q {
+        width: 9.2rem;
+        cursor: pointer;
+        top: 0;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3.7rem;
+        position: absolute;
+        left: 4rem;
+        font-size: 3rem;
+        font-weight: 400;
+      }
+      .services-phQ {
+        position: absolute;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 14.3rem;
+        height: 3.7rem;
+        cursor: pointer;
+        left: 16.5rem;
+        top: 0;
+        font-size: 3rem;
+      }
+      .portforlio-8CJ {
+        cursor: pointer;
+        position: absolute;
+        font-size: 3rem;
+        line-height: 1.2125;
+        font-weight: 400;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 18.8rem;
+        height: 3.7rem;
+        left: 34.1rem;
+        top: 0;
+      }
+      .rectangle-1-STt {
+        height: 50.6rem;
+        position: absolute;
+        left: 0;
+        top: 3.3rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 55.7rem;
+      }
+      .line-1-kjU {
+        width: 43rem;
+        height: 0.1rem;
+        position: absolute;
+        left: 6.4rem;
+        top: 53rem;
+        background-color: #000000;
+      }
+    }
+    .auto-group-xjg2-Dsx {
+      width: 38.6rem;
+      flex-shrink: 0;
+
+      .auto-group-vst2-y6S {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        margin-bottom: 18.3rem;
+
+        .certificates-shc {
+          margin-right: 3.3rem;
+          font-weight: 400;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          cursor: pointer;
+          font-size: 3rem;
+          line-height: 1.2125;
+          color: #000000;
+        }
+        .contact-oLN {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          cursor: pointer;
+          font-size: 3rem;
+          font-weight: 400;
+          line-height: 1.2125;
+        }
+      }
+      .rectangle-14-8tS {
+        object-fit: contain;
+        vertical-align: top;
+        margin-left: 2.8rem;
+        width: 27.2rem;
+        height: 26.2rem;
+      }
+    }
+  }
+  .welcome-to-salah-al-bashas-homepage-rZY {
+    left: 43.2rem;
+    display: flex;
+    line-height: 1.2125;
+    color: #000000;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 3rem;
+    font-family: Inter, 'Source Sans Pro';
+    width: 57.6rem;
+    height: 3.7rem;
+    position: absolute;
+    top: 69.8rem;
+    font-weight: 400;
+    align-items: baseline;
+
+    .welcome-to-salah-al-bashas-homepage-rZY-sub-0 {
+    }
+    .welcome-to-salah-al-bashas-homepage-rZY-sub-1 {
+      text-decoration-line: underline;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+    }
+    .welcome-to-salah-al-bashas-homepage-rZY-sub-2 {
+    }
+  }
+  .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY {
+    width: 86rem;
+    left: 29.05rem;
+    top: 77rem;
+    text-align: center;
+    font-weight: 400;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    height: 7.3rem;
+    position: absolute;
+    font-size: 3rem;
+    line-height: 1.2125;
+
+    .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY-sub-0 {
+    }
+    .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY-sub-1 {
+      text-decoration-line: underline;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+    }
+    .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-ndY-sub-2 {
+    }
+  }
+  .auto-group-rh1u-BZC {
+    left: 39.6rem;
+    top: 88rem;
+    display: flex;
+    align-items: center;
+    width: 99.3rem;
+    height: 10.9rem;
+    position: absolute;
+
+    .auto-group-4cgr-W5g {
+      align-items: flex-end;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.7rem 22.4rem 0rem 0rem;
+      height: 100%;
+      display: flex;
+
+      .auto-group-glvy-EGa {
+        color: #000000;
+        align-items: center;
+        flex-shrink: 0;
+        height: 100%;
+        font-size: 5rem;
+        display: flex;
+        margin-right: 2.7rem;
+        font-family: Inter, 'Source Sans Pro';
+        justify-content: center;
+        width: 31.1rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        white-space: nowrap;
+        background-color: #cebca1;
+      }
+      .auto-group-vvdl-5nz {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 31.1rem;
+        height: 100%;
+        font-size: 5rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        display: flex;
+        background-color: #cebba0;
+      }
+    }
+    .auto-group-prin-ydU {
+      height: 100%;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-image: url('REPLACE_IMAGE:2a032e04c8f8cc3e3bd8c58ac87f8cb0ddf9389f');
+      flex-shrink: 0;
+
+      .rectangle-16-6xz {
+        height: 10.9rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 12rem;
+      }
+    }
+  }
+  .auto-group-zo6j-BjY {
+    width: 27.9rem;
+    height: 6.2rem;
+    position: absolute;
+    left: 58rem;
+    top: 60rem;
+    display: flex;
+    column-gap: 2.7rem;
+    align-items: center;
+
+    .github-logo-4oL {
+      width: 7.4rem;
+      height: 6.2rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .linkedin-logo-zgz {
+      flex-shrink: 0;
+      width: 7.7rem;
+      height: 6.2rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .email-logo-jPg {
+      flex-shrink: 0;
+      width: 7.4rem;
+      height: 6.2rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+  }
+}
