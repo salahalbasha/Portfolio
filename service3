@@ -1,0 +1,217 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.services-g26 {
+  box-sizing: border-box;
+  padding: 4.3rem 5.1rem 3.5rem 5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.services-g26 .auto-group-7y8n-ymt {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-7y8n-ymt .home-KKx {
+  margin-right: 34.1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-7y8n-ymt .intro-Rtn {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-7y8n-ymt .services-LVx {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-7y8n-ymt .portforlio-T4n {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-7y8n-ymt .certificates-yop {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-7y8n-ymt .contact-7v2 {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-g26 .services-TU6 {
+  margin-bottom: 2.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-g26 .let-me-help-make-better-use-of-your-data-my-expertise-can-be-used-to-clean-analyse-interpret-and-visualize-your-data-PMk {
+  margin-bottom: 3.3rem;
+  max-width: 82.6rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-kqwg-TcW {
+  margin: 0rem 16.1rem 33.2rem 4.5rem;
+  width: calc(100% - 20.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-kqwg-TcW .rectangle-24-PWA {
+  margin-right: 0.6rem;
+  width: 16.8rem;
+  height: 16.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-kqwg-TcW .auto-group-tyxg-Kuc {
+  margin-top: 0.7rem;
+  box-sizing: border-box;
+  padding-top: 5.3rem;
+  width: 95.9rem;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-kqwg-TcW .auto-group-tyxg-Kuc .data-management-2p2 {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.services-g26 .auto-group-kqwg-TcW .auto-group-tyxg-Kuc .data-harvesting-cleaning-and-reshaping-development-of-automated-workflows-jCe {
+  margin-left: 0.1rem;
+  max-width: 95.8rem;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.services-g26 .line-2-QZg {
+  margin: 0rem 45.4rem 2.7rem 45.5rem;
+  width: calc(100% - 90.9rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-vgwn-KwY {
+  margin-left: 53rem;
+  width: calc(100% - 53rem);
+  height: 10.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-vgwn-KwY .auto-group-7ann-4eE {
+  box-sizing: border-box;
+  padding: 0.2rem 41rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-vgwn-KwY .auto-group-7ann-4eE .github-logo-nq8 {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-vgwn-KwY .auto-group-7ann-4eE .linkedin-logo-Lbk {
+  width: 7.7rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-vgwn-KwY .auto-group-7ann-4eE .email-logo-Uxr {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-g26 .auto-group-vgwn-KwY .rectangle-16-RNJ {
+  width: 12rem;
+  height: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
