@@ -1,0 +1,237 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.certificates-u46 {
+  box-sizing: border-box;
+  padding: 4.3rem 5.1rem 3.5rem 5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.certificates-u46 .auto-group-35jg-bhc {
+  margin-bottom: 11rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-35jg-bhc .home-9UE {
+  margin-right: 34.1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-35jg-bhc .intro-fxN {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-35jg-bhc .services-b5L {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-35jg-bhc .portforlio-vtJ {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-35jg-bhc .certificates-UQ2 {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-35jg-bhc .contact-Q2n {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-mmmc-wHc {
+  margin: 0rem 1.7rem 2.5rem 1.7rem;
+  width: calc(100% - 3.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-mmmc-wHc .rectangle-6-DF8 {
+  margin-right: 3.3rem;
+  width: 30.5rem;
+  height: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-mmmc-wHc .rectangle-60-jUN {
+  margin-right: 2.8865rem;
+  width: 30.0135rem;
+  height: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-mmmc-wHc .rectangle-8-5YE {
+  margin-right: 2.8rem;
+  width: 30.5rem;
+  height: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-mmmc-wHc .rectangle-17-q1c {
+  width: 30.5rem;
+  height: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-xump-yNi {
+  margin: 0rem 1.7rem 11.2rem 1.7rem;
+  width: calc(100% - 3.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-xump-yNi .rectangle-7-uXG {
+  margin-right: 3.3rem;
+  width: 30.5rem;
+  height: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-xump-yNi .rectangle-9-2rn {
+  margin-right: 2.6rem;
+  width: 30.5rem;
+  height: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-xump-yNi .rectangle-10-z2v {
+  margin-right: 2.6rem;
+  width: 30.5rem;
+  height: 23rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-xump-yNi .rectangle-11-Kqt {
+  width: 30.5rem;
+  height: 23rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .professional-development-is-one-of-my-top-priorities-and-enrolling-in-online-courses-during-the-past-year-has-yeilded-an-exponential-learning-curve-sMc {
+  margin: 0rem 0rem 2rem 0.1rem;
+  max-width: 106rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-nnnw-jPp {
+  margin-left: 43.3rem;
+  width: calc(100% - 43.3rem);
+  height: 10.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-nnnw-jPp .auto-group-wkxy-UcJ {
+  margin: 0.9rem 35.6rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding: 3rem 7.6rem 0rem 7.5rem;
+  width: 43rem;
+  height: calc(100% - 1.7rem);
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-nnnw-jPp .auto-group-wkxy-UcJ .auto-group-uu9y-9TY {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: center;
+}
+.certificates-u46 .auto-group-nnnw-jPp .auto-group-wkxy-UcJ .auto-group-uu9y-9TY .github-logo-tvv {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-nnnw-jPp .auto-group-wkxy-UcJ .auto-group-uu9y-9TY .linkedin-logo-r74 {
+  width: 7.7rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-nnnw-jPp .auto-group-wkxy-UcJ .auto-group-uu9y-9TY .email-logo-oHC {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-u46 .auto-group-nnnw-jPp .rectangle-16-vsc {
+  width: 12rem;
+  height: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
