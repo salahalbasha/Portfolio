@@ -1,0 +1,227 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.services-XPG {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.services-XPG .auto-group-nn58-dx6 {
+  width: 133.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 4.3rem;
+  display: flex;
+  align-items: center;
+}
+.services-XPG .auto-group-nn58-dx6 .home-MNJ {
+  margin-right: 34.1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-nn58-dx6 .intro-HFx {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-nn58-dx6 .services-mB8 {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-nn58-dx6 .portforlio-hqU {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-nn58-dx6 .certificates-DJ2 {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-nn58-dx6 .contact-wzi {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-XPG .line-1-J4a {
+  width: 43rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 31rem;
+  background-color: #000000;
+}
+.services-XPG .services-DSS {
+  width: 19.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 62.4rem;
+  top: 12.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.services-XPG .let-me-help-make-better-use-of-your-data-my-expertise-can-be-used-to-clean-analyse-interpret-and-visualize-your-data-Hx6 {
+  width: 82.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 30.65rem;
+  top: 19.7rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.services-XPG .creation-of-static-and-interactive-dataviz-and-dashboards-review-of-scientific-figures-K86 {
+  width: 80rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 31rem;
+  top: 46rem;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.services-XPG .auto-group-ktwx-NcA {
+  width: 33rem;
+  height: 13rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 32.7rem;
+  display: flex;
+  align-items: center;
+}
+.services-XPG .auto-group-ktwx-NcA .rectangle-25-Hz2 {
+  margin-right: 5.3rem;
+  width: 13.1rem;
+  height: 13rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-ktwx-NcA .dataviz-dnz {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.services-XPG .line-2-wog {
+  width: 43rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 85.2rem;
+  background-color: #000000;
+}
+.services-XPG .auto-group-ycee-FpN {
+  width: 80.9rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 58rem;
+  top: 88rem;
+  display: flex;
+  align-items: center;
+}
+.services-XPG .auto-group-ycee-FpN .auto-group-vkun-xCz {
+  box-sizing: border-box;
+  padding: 0.2rem 41rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-ycee-FpN .auto-group-vkun-xCz .github-logo-5YW {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-ycee-FpN .auto-group-vkun-xCz .linkedin-logo-EAW {
+  width: 7.7rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-ycee-FpN .auto-group-vkun-xCz .email-logo-aVG {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.services-XPG .auto-group-ycee-FpN .rectangle-16-XfQ {
+  width: 12rem;
+  height: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
