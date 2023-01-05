@@ -1,0 +1,394 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.intro-P54 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.intro-P54 .auto-group-ssmc-cTc {
+  width: 133.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 4.3rem;
+  display: flex;
+  align-items: center;
+}
+.intro-P54 .auto-group-ssmc-cTc .home-Y6N {
+  margin-right: 34.1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-ssmc-cTc .intro-SxS {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-ssmc-cTc .services-Pcn {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-ssmc-cTc .portforlio-vsc {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-ssmc-cTc .certificates-3SS {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-ssmc-cTc .contact-wGv {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-2ryp-gEW {
+  width: 122.9rem;
+  height: 41.6rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 16.3rem;
+  display: flex;
+  align-items: center;
+}
+.intro-P54 .auto-group-2ryp-gEW .rectangle-5-QwC {
+  margin-right: 7.8rem;
+  width: 26.5rem;
+  height: 41.6rem;
+  position: relative;
+  background-size: 214.815% 182.298%;
+  background-position: -23.2504rem -11.2196rem;
+  background-image: url('../assets/rectangle-5.png');
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-2ryp-gEW .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4 {
+  margin-bottom: 1.2rem;
+  max-width: 88.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-2ryp-gEW .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4 .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-0 {
+}
+.intro-P54 .auto-group-2ryp-gEW .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4 .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.intro-P54 .auto-group-2ryp-gEW .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4 .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-2 {
+}
+.intro-P54 .auto-group-2ryp-gEW .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4 .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-3 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.intro-P54 .auto-group-2ryp-gEW .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4 .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-4 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.intro-P54 .auto-group-2ryp-gEW .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4 .hi-im-salah-i-help-companies-and-researchers-analyse-their-datasets-i-am-skilled-for-most-data-science-steps-data-pre-processing-application-of-statistical-methods-data-visualization-and-results-communication-after-graduating-with-a-bachelors-of-applied-mathematics-and-a-background-in-computer-science-from-carleton-university-i-worked-at-shopify-as-a-technical-support-advisor-ud4-sub-5 {
+}
+.intro-P54 .auto-group-tmqt-7uU {
+  width: 130.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 68.3rem;
+  display: flex;
+  align-items: center;
+}
+.intro-P54 .auto-group-tmqt-7uU .sales-associate-eeW {
+  margin-right: 11.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-tmqt-7uU .bachelors-degree-ao4 {
+  margin-right: 13.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-tmqt-7uU .personal-trainer-Kke {
+  margin-right: 11.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-tmqt-7uU .support-advisor-U7k {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-evmq-zbt {
+  width: 120.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 76.9rem;
+  display: flex;
+  align-items: center;
+}
+.intro-P54 .auto-group-evmq-zbt .popeyes-7wQ {
+  margin-right: 5.2rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-evmq-zbt .item-2019-RBQ {
+  margin-right: 7.9rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-evmq-zbt .carleton-u-xSE {
+  margin-right: 8.5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-evmq-zbt .item-2021-uMU {
+  margin-right: 8.4rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-evmq-zbt .goodlife-FRL {
+  margin-right: 7.7rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-evmq-zbt .item-2022-zNv {
+  margin-right: 8.6rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-evmq-zbt .shopify-X7x {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-xg1x-shc {
+  width: 133.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 5rem;
+  top: 72.7rem;
+  display: flex;
+  align-items: center;
+}
+.intro-P54 .auto-group-xg1x-shc .line-2-QSe {
+  margin: 0.1rem 1.4rem 0rem 0rem;
+  width: 26.2rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-xg1x-shc .ellipse-1-87k {
+  margin-right: 2.1rem;
+  width: 3.4rem;
+  height: 3.4rem;
+  background-color: #e8b76d;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-xg1x-shc .line-3-TQv {
+  margin: 0.1rem 2.8rem 0rem 0rem;
+  width: 30.8rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-xg1x-shc .ellipse-2-Bbp {
+  margin-right: 2rem;
+  width: 3.4rem;
+  height: 3.4rem;
+  background-color: #e8b76d;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-xg1x-shc .line-4-gYa {
+  margin: 0.1rem 2rem 0rem 0rem;
+  width: 28.2rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-xg1x-shc .ellipse-3-QDg {
+  margin-right: 2rem;
+  width: 3.4rem;
+  height: 3.4rem;
+  background-color: #e8b76d;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-xg1x-shc .line-5-Yan {
+  margin-top: 0.1rem;
+  width: 26.2rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-wqga-5qc {
+  width: 88.4rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 88rem;
+  display: flex;
+  align-items: flex-start;
+}
+.intro-P54 .auto-group-wqga-5qc .auto-group-k8tu-poC {
+  margin: 0.4rem 33.4rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 3rem 7.6rem 0rem 7.5rem;
+  width: 43rem;
+  height: 9.2rem;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-wqga-5qc .auto-group-k8tu-poC .auto-group-q5ni-94n {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: center;
+}
+.intro-P54 .auto-group-wqga-5qc .auto-group-k8tu-poC .auto-group-q5ni-94n .github-logo-h6J {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-wqga-5qc .auto-group-k8tu-poC .auto-group-q5ni-94n .linkedin-logo-Erv {
+  width: 7.7rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-wqga-5qc .auto-group-k8tu-poC .auto-group-q5ni-94n .email-logo-NCS {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.intro-P54 .auto-group-wqga-5qc .rectangle-16-hkW {
+  width: 12rem;
+  height: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
