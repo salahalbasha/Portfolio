@@ -1,0 +1,299 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.home-contact-hover-yxW {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx {
+  width: 133.9rem;
+  height: 53.9rem;
+  position: absolute;
+  left: 5rem;
+  top: 4.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-ghgw-3hU {
+  margin-right: 7.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-ghgw-3hU .home-yr2 {
+  margin-bottom: 22.2rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-ghgw-3hU .rectangle-13-ujg {
+  margin-left: 5.9rem;
+  width: 25.7rem;
+  height: 18.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-v1sq-eSN {
+  margin-right: 0.5rem;
+  width: 55.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-v1sq-eSN .intro-o4N {
+  width: 9.2rem;
+  height: 3.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-v1sq-eSN .services-ut6 {
+  width: 14.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-v1sq-eSN .portforlio-mvJ {
+  width: 18.8rem;
+  height: 3.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 34.1rem;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-v1sq-eSN .rectangle-16-VrJ {
+  width: 55.7rem;
+  height: 50.6rem;
+  position: absolute;
+  left: 0;
+  top: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-v1sq-eSN .line-1-3N2 {
+  width: 43rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 53rem;
+  background-color: #000000;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-cy6e-9vr {
+  width: 38.6rem;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-cy6e-9vr .auto-group-8vxg-uf8 {
+  margin-bottom: 18.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-cy6e-9vr .auto-group-8vxg-uf8 .certificates-FU6 {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-cy6e-9vr .auto-group-8vxg-uf8 .contact-mSS {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-4qji-vMx .auto-group-cy6e-9vr .rectangle-16-uoY {
+  margin-left: 2.8rem;
+  width: 27.2rem;
+  height: 26.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-contact-hover-yxW .welcome-to-salah-al-bashas-homepage-3uk {
+  width: 57.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 43.2rem;
+  top: 69.8rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.home-contact-hover-yxW .welcome-to-salah-al-bashas-homepage-3uk .welcome-to-salah-al-bashas-homepage-3uk-sub-0 {
+}
+.home-contact-hover-yxW .welcome-to-salah-al-bashas-homepage-3uk .welcome-to-salah-al-bashas-homepage-3uk-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-contact-hover-yxW .welcome-to-salah-al-bashas-homepage-3uk .welcome-to-salah-al-bashas-homepage-3uk-sub-2 {
+}
+.home-contact-hover-yxW .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte {
+  width: 86rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 29.05rem;
+  top: 77rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-contact-hover-yxW .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte-sub-0 {
+}
+.home-contact-hover-yxW .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-contact-hover-yxW .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte .im-a-data-analysis-and-data-visualization-specialist-currently-working-as-a-technical-support-advisor-at-shopify-wte-sub-2 {
+}
+.home-contact-hover-yxW .auto-group-tu5c-NsU {
+  width: 27.9rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 58rem;
+  top: 60rem;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: center;
+}
+.home-contact-hover-yxW .auto-group-tu5c-NsU .github-logo-Jm8 {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-tu5c-NsU .linkedin-logo-T8E {
+  width: 7.7rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-tu5c-NsU .email-logo-bkE {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-jptu-XNz {
+  width: 99.3rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 39.6rem;
+  top: 88rem;
+  display: flex;
+  align-items: center;
+}
+.home-contact-hover-yxW .auto-group-jptu-XNz .auto-group-mgqg-4dp {
+  box-sizing: border-box;
+  padding: 0.7rem 22.4rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-jptu-XNz .auto-group-mgqg-4dp .auto-group-xzaa-13G {
+  margin-right: 2.7rem;
+  width: 31.1rem;
+  height: 100%;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cebca1;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-jptu-XNz .auto-group-mgqg-4dp .auto-group-rvfc-JYA {
+  width: 31.1rem;
+  height: 100%;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e8b76d;
+  flex-shrink: 0;
+}
+.home-contact-hover-yxW .auto-group-jptu-XNz .rectangle-17-aEn {
+  width: 12rem;
+  height: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
