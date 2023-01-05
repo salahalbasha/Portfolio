@@ -1,0 +1,165 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.certificates-zgJ {
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 4.3rem 5.1rem 3.5rem 5rem;
+  position: relative;
+  background-color: #ffffff;
+
+  .auto-group-8zji-Jgz {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-bottom: 70.7rem;
+    width: 100%;
+
+    .home-qS2 {
+      font-weight: 400;
+      white-space: nowrap;
+      flex-shrink: 0;
+      line-height: 1.2125;
+      color: #a5742b;
+      font-family: Inter, 'Source Sans Pro';
+      margin-right: 34.1rem;
+      cursor: pointer;
+      font-size: 3rem;
+    }
+    .intro-NRx {
+      margin-right: 3.3rem;
+      cursor: pointer;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3rem;
+      font-weight: 400;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .services-iVp {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .portforlio-s7p {
+      font-weight: 400;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      flex-shrink: 0;
+      cursor: pointer;
+      line-height: 1.2125;
+    }
+    .certificates-aY2 {
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #a5742b;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .contact-vbt {
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+  }
+  .professional-development-is-one-of-my-top-priorities-and-enrolling-in-online-courses-during-the-past-year-has-yeilded-an-exponential-learning-curve-T62 {
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    margin: 0rem 0rem 2rem 0.1rem;
+    max-width: 106rem;
+    text-align: center;
+    font-weight: 400;
+    font-size: 3rem;
+    flex-shrink: 0;
+  }
+  .auto-group-8roc-tBL {
+    width: calc(100% - 43.3rem);
+    height: 10.9rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 43.3rem;
+
+    .auto-group-ocmg-DzJ {
+      margin: 0.9rem 35.6rem 0.8rem 0rem;
+      box-sizing: border-box;
+      padding: 3rem 7.6rem 0rem 7.5rem;
+      width: 43rem;
+      height: calc(100% - 1.7rem);
+      border-top: solid 0.1rem #000000;
+      flex-shrink: 0;
+
+      .auto-group-qx5x-LZ8 {
+        column-gap: 2.7rem;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        display: flex;
+
+        .github-logo-rnN {
+          width: 7.4rem;
+          height: 6.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .linkedin-logo-oSi {
+          width: 7.7rem;
+          height: 6.2rem;
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .email-logo-vnE {
+          width: 7.4rem;
+          height: 6.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .rectangle-16-TnA {
+      width: 12rem;
+      height: 10.9rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+}
