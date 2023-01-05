@@ -1,0 +1,360 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.services-4jc {
+  padding: 4.3rem 5.1rem 3.5rem 5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+
+  .auto-group-fqfp-AGr {
+    align-items: center;
+    flex-shrink: 0;
+    margin-bottom: 4.3rem;
+    width: 100%;
+    display: flex;
+
+    .home-hXg {
+      font-size: 3rem;
+      line-height: 1.2125;
+      color: #a5742b;
+      white-space: nowrap;
+      margin-right: 34.1rem;
+      font-weight: 400;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .intro-Dkv {
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      cursor: pointer;
+      font-size: 3rem;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      font-weight: 400;
+      color: #000000;
+      white-space: nowrap;
+    }
+    .services-xCi {
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #a5742b;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .portforlio-ts4 {
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      cursor: pointer;
+      font-size: 3rem;
+      color: #000000;
+      margin-right: 3.3rem;
+      font-weight: 400;
+    }
+    .certificates-2iN {
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      cursor: pointer;
+      color: #000000;
+      white-space: nowrap;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .contact-ZTQ {
+      white-space: nowrap;
+      flex-shrink: 0;
+      cursor: pointer;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+    }
+  }
+  .services-TYn {
+    text-align: center;
+    font-weight: 400;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    margin-bottom: 2.5rem;
+    font-size: 4rem;
+    line-height: 1.2125;
+  }
+  .let-me-help-make-better-use-of-your-data-my-expertise-can-be-used-to-clean-analyse-interpret-and-visualize-your-data-a7c {
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 1.2125;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    text-align: center;
+    max-width: 82.6rem;
+    font-style: italic;
+    color: #000000;
+    margin-bottom: 1.6rem;
+  }
+  .auto-group-yv5u-Exr {
+    height: 48.3rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 8.55rem 0.7rem 8.2rem;
+    width: calc(100% - 16.75rem);
+
+    .auto-group-vlrn-YyY {
+      flex-shrink: 0;
+      width: 35.8rem;
+      height: 100%;
+      position: relative;
+
+      .data-harvesting-cleaning-and-reshaping-development-of-automated-workflows-714 {
+        position: absolute;
+        left: 1.4rem;
+        top: 33.7rem;
+        font-size: 3rem;
+        line-height: 1.2125;
+        font-style: italic;
+        height: 14.6rem;
+        text-align: center;
+        font-weight: 200;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        width: 32.9rem;
+      }
+      .data-management-Azv {
+        width: 26.6rem;
+        position: absolute;
+        font-weight: 600;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3.7rem;
+        left: 4.6rem;
+        top: 28.7rem;
+        text-align: center;
+        font-size: 3rem;
+        line-height: 1.2125;
+      }
+      .rectangle-24-5rz {
+        height: 35.5rem;
+        cursor: pointer;
+        position: absolute;
+        left: 0;
+        top: 0;
+        object-fit: cover;
+        vertical-align: top;
+        width: 35.8rem;
+      }
+    }
+    .auto-group-qsys-Psg {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 0rem 0rem 1.5rem;
+      height: 100%;
+      display: flex;
+      align-items: flex-end;
+
+      .auto-group-m5pn-gbt {
+        height: 100%;
+        border-top: solid 0.1rem #000000;
+        flex-shrink: 0;
+        margin-right: 4.65rem;
+        box-sizing: border-box;
+        padding-top: 0.1rem;
+        width: 43rem;
+
+        .auto-group-rbni-D62 {
+          display: flex;
+          flex-direction: column;
+          box-sizing: border-box;
+          padding: 3.4rem 4.45rem 0rem 5.75rem;
+          width: 100%;
+          height: 100%;
+          align-items: center;
+
+          .rectangle-26-Wqp {
+            cursor: pointer;
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin: 0rem 0rem 2.4rem 6.3rem;
+            width: 20.6rem;
+            height: 20.4rem;
+          }
+          .data-mining-EWv {
+            margin: 0rem 0rem 1.3rem 0.5rem;
+            text-align: center;
+            font-weight: 600;
+            line-height: 1.2125;
+            color: #000000;
+            font-size: 3rem;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .data-exploration-application-of-statistical-methods-reproducible-data-analysis-esU {
+            text-align: center;
+            font-size: 3rem;
+            font-family: Inter, 'Source Sans Pro';
+            color: #000000;
+            flex-shrink: 0;
+            max-width: 32.8rem;
+            font-weight: 200;
+            line-height: 1.2125;
+            font-style: italic;
+          }
+        }
+      }
+      .auto-group-wwpt-Kii {
+        flex-shrink: 0;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .rectangle-25-Gtr {
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 0rem 2.1rem 0.1rem;
+          width: 17.8rem;
+          height: 17.7rem;
+        }
+        .dataviz-PTg {
+          font-weight: 600;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 3rem;
+          margin-bottom: 1.3rem;
+          white-space: nowrap;
+        }
+        .creation-of-static-and-interactive-dataviz-and-dashboards-review-of-scientific-figures-X46 {
+          max-width: 32.2rem;
+          font-size: 3rem;
+          line-height: 1.2125;
+          font-style: italic;
+          color: #000000;
+          flex-shrink: 0;
+          text-align: center;
+          font-weight: 200;
+          font-family: Inter, 'Source Sans Pro';
+        }
+      }
+    }
+  }
+  .auto-group-fn4i-ygn {
+    margin: 0rem 21.9rem 3rem 21rem;
+    width: calc(100% - 42.9rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+
+    .rectangle-27-4iE {
+      margin-right: 37.7rem;
+      width: 5.5rem;
+      height: 4.6rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .rectangle-28-BXx {
+      margin-right: 36.8rem;
+      width: 5.5rem;
+      height: 4.6rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .rectangle-29-8CJ {
+      flex-shrink: 0;
+      width: 5.5rem;
+      height: 4.6rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+  }
+  .line-2-fT8 {
+    margin: 0rem 45.4rem 2.7rem 45.5rem;
+    width: calc(100% - 90.9rem);
+    height: 0.1rem;
+    background-color: #000000;
+    flex-shrink: 0;
+  }
+  .auto-group-e5jp-nne {
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 53rem;
+    width: calc(100% - 53rem);
+    height: 10.9rem;
+    display: flex;
+
+    .auto-group-1d5l-w9k {
+      display: flex;
+      column-gap: 2.7rem;
+      align-items: flex-start;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.2rem 41rem 0.2rem 0rem;
+      height: 100%;
+
+      .github-logo-4VG {
+        height: 6.2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 7.4rem;
+      }
+      .linkedin-logo-CrN {
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 7.7rem;
+        height: 6.2rem;
+        object-fit: cover;
+      }
+      .email-logo-x4r {
+        width: 7.4rem;
+        height: 6.2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .rectangle-16-GLS {
+      width: 12rem;
+      height: 10.9rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+}
