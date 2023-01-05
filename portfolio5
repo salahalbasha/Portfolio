@@ -1,0 +1,244 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.portfolio-NCz {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.portfolio-NCz .auto-group-trxe-fC6 {
+  width: 133.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 4.3rem;
+  display: flex;
+  align-items: center;
+}
+.portfolio-NCz .auto-group-trxe-fC6 .home-NcJ {
+  margin-right: 34.1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-trxe-fC6 .intro-Ghg {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-trxe-fC6 .services-bjx {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-trxe-fC6 .portforlio-uEr {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-trxe-fC6 .certificates-ob8 {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-trxe-fC6 .contact-6KL {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-NCz .line-1-2Tt {
+  width: 43rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 26.8rem;
+  background-color: #000000;
+}
+.portfolio-NCz .portfolio-A4J {
+  width: 22.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 60.7rem;
+  top: 13.7rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-NCz .a-glimpse-of-the-projects-ive-been-working-on-Gd8 {
+  width: 63.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 40.15rem;
+  top: 19.9rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-NCz .auto-group-kumc-wzA {
+  width: 92.9rem;
+  height: 24.9rem;
+  position: absolute;
+  left: 25.6rem;
+  top: 29.6rem;
+  display: flex;
+  column-gap: 9.1rem;
+  align-items: center;
+}
+.portfolio-NCz .auto-group-kumc-wzA .rectangle-18-GmY {
+  width: 24.9rem;
+  height: 24.9rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-kumc-wzA .rectangle-19-p2N {
+  width: 24.9rem;
+  height: 24.9rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-kumc-wzA .rectangle-20-xuG {
+  width: 24.9rem;
+  height: 24.9rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-bpju-hbx {
+  width: 92.9rem;
+  height: 25rem;
+  position: absolute;
+  left: 25.6rem;
+  top: 57.3rem;
+  display: flex;
+  column-gap: 9.1rem;
+  align-items: flex-start;
+}
+.portfolio-NCz .auto-group-bpju-hbx .rectangle-21-PUn {
+  width: 24.9rem;
+  height: 24.9rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-bpju-hbx .rectangle-22-joY {
+  margin-top: 0.1rem;
+  width: 24.9rem;
+  height: 24.9rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-bpju-hbx .rectangle-23-TUe {
+  width: 24.9rem;
+  height: 24.9rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.portfolio-NCz .line-2-bqk {
+  width: 43rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 85.2rem;
+  background-color: #000000;
+}
+.portfolio-NCz .auto-group-fjrs-YFC {
+  width: 80.9rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 58rem;
+  top: 88rem;
+  display: flex;
+  align-items: center;
+}
+.portfolio-NCz .auto-group-fjrs-YFC .auto-group-4txy-Gwt {
+  box-sizing: border-box;
+  padding: 0.2rem 41rem 0.2rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-fjrs-YFC .auto-group-4txy-Gwt .github-logo-nfL {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-fjrs-YFC .auto-group-4txy-Gwt .linkedin-logo-KfG {
+  width: 7.7rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-fjrs-YFC .auto-group-4txy-Gwt .email-logo-U2N {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-NCz .auto-group-fjrs-YFC .rectangle-16-ar6 {
+  width: 12rem;
+  height: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
