@@ -1,0 +1,278 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.portfolio-exJ {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.portfolio-exJ .auto-group-eksl-CD8 {
+  width: 133.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 5rem;
+  top: 4.3rem;
+  display: flex;
+  align-items: center;
+}
+.portfolio-exJ .auto-group-eksl-CD8 .home-udL {
+  margin-right: 34.1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-eksl-CD8 .intro-2T4 {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-eksl-CD8 .services-LCr {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-eksl-CD8 .portforlio-2rN {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-eksl-CD8 .certificates-k1g {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-eksl-CD8 .contact-H1c {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-k1rt-oke {
+  width: 130.4rem;
+  height: 35.3rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 65.1rem;
+}
+.portfolio-exJ .auto-group-k1rt-oke .rectangle-16-8Y2 {
+  width: 12rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 118.4rem;
+  top: 22.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-exJ .auto-group-k1rt-oke .back-to-projects-SHp {
+  width: 15.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 55.8rem;
+  top: 32.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-exJ .auto-group-k1rt-oke .rectangle-18-Y5x {
+  width: 12.4rem;
+  height: 9.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 57.3rem;
+  top: 22.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-exJ .auto-group-k1rt-oke .data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr {
+  width: 129.6rem;
+  height: 24.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.portfolio-exJ .auto-group-k1rt-oke .data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr .data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr-sub-0 {
+}
+.portfolio-exJ .auto-group-k1rt-oke .data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr .data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr-sub-1 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.portfolio-exJ .auto-group-k1rt-oke .data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr .data-preparation-and-cleaning-was-performed-using-pandas-and-numpy-exploratory-analysis-and-exploration-of-the-dataset-was-executed-using-matplotlib-and-seaborn-the-main-results-of-this-study-have-been-obtained-using-python-visualizations-that-clearly-and-effectively-communicate-the-insights-and-patterns-present-in-the-data-were-done-using-tableau-all-code-for-this-interactive-website-is-available-on-github-feel-free-to-contact-me-for-further-information-GGr-sub-2 {
+}
+.portfolio-exJ .us-car-accidents-8VQ {
+  width: 33.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 55.3rem;
+  top: 9.8rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-exJ .auto-group-if3q-ABC {
+  width: 120.9rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 17.2rem;
+  display: flex;
+  align-items: center;
+}
+.portfolio-exJ .auto-group-if3q-ABC .auto-group-rmge-5ox {
+  margin-right: 5.5rem;
+  width: 25.6rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cebca1;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-if3q-ABC .auto-group-mjdu-aVp {
+  margin-right: 6.5rem;
+  width: 25.6rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e8b76d;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-if3q-ABC .auto-group-zj1g-3uC {
+  margin-right: 6.5rem;
+  width: 25.6rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #cebca1;
+  flex-shrink: 0;
+}
+.portfolio-exJ .auto-group-if3q-ABC .rectangle-21-Z6r {
+  width: 25.6rem;
+  height: 7.2rem;
+  cursor: pointer;
+  background-color: #cebca1;
+  flex-shrink: 0;
+}
+.portfolio-exJ .introduction-HoY {
+  width: 22.9rem;
+  height: 4.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8.5rem;
+  top: 27rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-exJ .exploratory-data-analysis-and-visualizations-c58 {
+  width: 83.6rem;
+  height: 4.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 8.8rem;
+  top: 58.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-exJ .car-accidents-are-a-significant-public-health-issue-and-understanding-the-factors-that-contribute-to-accidents-can-help-to-identify-ways-to-reduce-their-frequency-and-severity-secondly-car-accidents-can-have-significant-economic-consequences-such-as-lost-productivity-medical-costs-and-property-damage-so-understanding-the-costs-and-impacts-of-accidents-can-help-to-inform-policies-and-strategies-for-mitigating-their-effects-finally-studying-car-accident-datasets-can-help-to-improve-our-understanding-of-the-factors-that-contribute-to-accidents-such-as-driver-behavior-road-conditions-and-vehicle-design-and-can-support-the-development-of-new-technologies-and-strategies-for-improving-road-safety-pBC {
+  width: 129.2rem;
+  height: 24.3rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 33.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
