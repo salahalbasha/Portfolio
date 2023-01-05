@@ -1,0 +1,244 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.certificates-u46 {
+  box-sizing: border-box;
+  padding: 4.3rem 5.1rem 3.5rem 5rem;
+  position: relative;
+  align-items: center;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+
+  .auto-group-35jg-bhc {
+    margin-bottom: 11rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+
+    .home-9UE {
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      cursor: pointer;
+      font-size: 3rem;
+      font-weight: 400;
+      color: #a5742b;
+      flex-shrink: 0;
+      margin-right: 34.1rem;
+    }
+    .intro-fxN {
+      font-weight: 400;
+      line-height: 1.2125;
+      white-space: nowrap;
+      margin-right: 3.3rem;
+      cursor: pointer;
+      font-size: 3rem;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+    .services-b5L {
+      color: #000000;
+      white-space: nowrap;
+      cursor: pointer;
+      font-size: 3rem;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      font-weight: 400;
+    }
+    .portforlio-vtJ {
+      color: #000000;
+      flex-shrink: 0;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      margin-right: 3.3rem;
+      cursor: pointer;
+    }
+    .certificates-UQ2 {
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #a5742b;
+    }
+    .contact-Q2n {
+      flex-shrink: 0;
+      cursor: pointer;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+  }
+  .auto-group-mmmc-wHc {
+    margin: 0rem 1.7rem 2.5rem 1.7rem;
+    width: calc(100% - 3.4rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+
+    .rectangle-6-DF8 {
+      height: 23rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      width: 30.5rem;
+    }
+    .rectangle-60-jUN {
+      margin-right: 2.8865rem;
+      width: 30.0135rem;
+      height: 23rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .rectangle-8-5YE {
+      margin-right: 2.8rem;
+      width: 30.5rem;
+      height: 23rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .rectangle-17-q1c {
+      width: 30.5rem;
+      height: 23rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+  .auto-group-xump-yNi {
+    margin: 0rem 1.7rem 11.2rem 1.7rem;
+    width: calc(100% - 3.4rem);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+
+    .rectangle-7-uXG {
+      margin-right: 3.3rem;
+      width: 30.5rem;
+      height: 23rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .rectangle-9-2rn {
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 2.6rem;
+      width: 30.5rem;
+      height: 23rem;
+      object-fit: contain;
+    }
+    .rectangle-10-z2v {
+      margin-right: 2.6rem;
+      width: 30.5rem;
+      height: 23rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .rectangle-11-Kqt {
+      width: 30.5rem;
+      height: 23rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+  .professional-development-is-one-of-my-top-priorities-and-enrolling-in-online-courses-during-the-past-year-has-yeilded-an-exponential-learning-curve-sMc {
+    line-height: 1.2125;
+    margin: 0rem 0rem 2rem 0.1rem;
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: Inter, 'Source Sans Pro';
+    flex-shrink: 0;
+    max-width: 106rem;
+    text-align: center;
+    color: #000000;
+  }
+  .auto-group-nnnw-jPp {
+    align-items: center;
+    flex-shrink: 0;
+    margin-left: 43.3rem;
+    width: calc(100% - 43.3rem);
+    height: 10.9rem;
+    display: flex;
+
+    .auto-group-wkxy-UcJ {
+      width: 43rem;
+      height: calc(100% - 1.7rem);
+      border-top: solid 0.1rem #000000;
+      flex-shrink: 0;
+      margin: 0.9rem 35.6rem 0.8rem 0rem;
+      box-sizing: border-box;
+      padding: 3rem 7.6rem 0rem 7.5rem;
+
+      .auto-group-uu9y-9TY {
+        height: 100%;
+        display: flex;
+        column-gap: 2.7rem;
+        align-items: center;
+        width: 100%;
+
+        .github-logo-tvv {
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 7.4rem;
+          height: 6.2rem;
+          object-fit: contain;
+        }
+        .linkedin-logo-r74 {
+          object-fit: cover;
+          vertical-align: top;
+          flex-shrink: 0;
+          width: 7.7rem;
+          height: 6.2rem;
+        }
+        .email-logo-oHC {
+          width: 7.4rem;
+          height: 6.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .rectangle-16-vsc {
+      width: 12rem;
+      height: 10.9rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+}
