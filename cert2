@@ -1,0 +1,160 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.certificates-UoC {
+  box-sizing: border-box;
+  padding: 4.3rem 5.1rem 3.5rem 5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.certificates-UoC .auto-group-8mbp-ceW {
+  margin-bottom: 70.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-8mbp-ceW .home-98e {
+  margin-right: 34.1rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-8mbp-ceW .intro-Gyx {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-8mbp-ceW .services-cnv {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-8mbp-ceW .portforlio-mA2 {
+  margin-right: 3.3rem;
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-8mbp-ceW .certificates-5Rc {
+  margin-right: 3.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #a5742b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-8mbp-ceW .contact-Qyg {
+  cursor: pointer;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.certificates-UoC .professional-development-is-one-of-my-top-priorities-and-enrolling-in-online-courses-during-the-past-year-has-yeilded-an-exponential-learning-curve-MP8 {
+  margin: 0rem 0rem 2rem 0.1rem;
+  max-width: 106rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-vtzs-xti {
+  margin-left: 43.3rem;
+  width: calc(100% - 43.3rem);
+  height: 10.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-vtzs-xti .auto-group-bpt6-JBt {
+  margin: 0.9rem 35.6rem 0.8rem 0rem;
+  box-sizing: border-box;
+  padding: 3rem 7.6rem 0rem 7.5rem;
+  width: 43rem;
+  height: calc(100% - 1.7rem);
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-vtzs-xti .auto-group-bpt6-JBt .auto-group-nykz-oPY {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  column-gap: 2.7rem;
+  align-items: center;
+}
+.certificates-UoC .auto-group-vtzs-xti .auto-group-bpt6-JBt .auto-group-nykz-oPY .github-logo-kpa {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-vtzs-xti .auto-group-bpt6-JBt .auto-group-nykz-oPY .linkedin-logo-3og {
+  width: 7.7rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-vtzs-xti .auto-group-bpt6-JBt .auto-group-nykz-oPY .email-logo-PsY {
+  width: 7.4rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.certificates-UoC .auto-group-vtzs-xti .rectangle-16-vca {
+  width: 12rem;
+  height: 10.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
