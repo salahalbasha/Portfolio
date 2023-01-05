@@ -1,0 +1,250 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.portfolio-NCz {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+
+  .auto-group-trxe-fC6 {
+    top: 4.3rem;
+    display: flex;
+    align-items: center;
+    width: 133.9rem;
+    height: 3.7rem;
+    position: absolute;
+    left: 5rem;
+
+    .home-NcJ {
+      color: #a5742b;
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 3rem;
+      cursor: pointer;
+      font-weight: 400;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      margin-right: 34.1rem;
+    }
+    .intro-Ghg {
+      margin-right: 3.3rem;
+      cursor: pointer;
+      line-height: 1.2125;
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 3rem;
+      font-weight: 400;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .services-bjx {
+      cursor: pointer;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      white-space: nowrap;
+    }
+    .portforlio-uEr {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #a5742b;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .certificates-ob8 {
+      cursor: pointer;
+      font-weight: 400;
+      line-height: 1.2125;
+      white-space: nowrap;
+      margin-right: 3.3rem;
+      font-size: 3rem;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+    .contact-6KL {
+      flex-shrink: 0;
+      cursor: pointer;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+  }
+  .line-1-2Tt {
+    top: 26.8rem;
+    background-color: #000000;
+    width: 43rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 50.5rem;
+  }
+  .portfolio-A4J {
+    width: 22.5rem;
+    height: 4.9rem;
+    left: 60.7rem;
+    top: 13.7rem;
+    text-align: center;
+    line-height: 1.2125;
+    white-space: nowrap;
+    position: absolute;
+    font-size: 4rem;
+    font-weight: 400;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+  }
+  .a-glimpse-of-the-projects-ive-been-working-on-Gd8 {
+    font-weight: 200;
+    line-height: 1.2125;
+    width: 63.7rem;
+    height: 3.7rem;
+    position: absolute;
+    left: 40.15rem;
+    top: 19.9rem;
+    font-size: 3rem;
+    color: #000000;
+    text-align: center;
+    font-style: italic;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .auto-group-kumc-wzA {
+    height: 24.9rem;
+    position: absolute;
+    left: 25.6rem;
+    top: 29.6rem;
+    display: flex;
+    column-gap: 9.1rem;
+    align-items: center;
+    width: 92.9rem;
+
+    .rectangle-18-GmY {
+      width: 24.9rem;
+      height: 24.9rem;
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+    }
+    .rectangle-19-p2N {
+      width: 24.9rem;
+      height: 24.9rem;
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+    }
+    .rectangle-20-xuG {
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+      width: 24.9rem;
+      height: 24.9rem;
+    }
+  }
+  .auto-group-bpju-hbx {
+    display: flex;
+    column-gap: 9.1rem;
+    align-items: flex-start;
+    width: 92.9rem;
+    height: 25rem;
+    position: absolute;
+    left: 25.6rem;
+    top: 57.3rem;
+
+    .rectangle-21-PUn {
+      width: 24.9rem;
+      height: 24.9rem;
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+    }
+    .rectangle-22-joY {
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+      width: 24.9rem;
+      height: 24.9rem;
+    }
+    .rectangle-23-TUe {
+      width: 24.9rem;
+      height: 24.9rem;
+      background-color: #d9d9d9;
+      flex-shrink: 0;
+    }
+  }
+  .line-2-bqk {
+    width: 43rem;
+    height: 0.1rem;
+    position: absolute;
+    left: 50.5rem;
+    top: 85.2rem;
+    background-color: #000000;
+  }
+  .auto-group-fjrs-YFC {
+    width: 80.9rem;
+    height: 10.9rem;
+    position: absolute;
+    left: 58rem;
+    top: 88rem;
+    display: flex;
+    align-items: center;
+
+    .auto-group-4txy-Gwt {
+      height: 100%;
+      display: flex;
+      column-gap: 2.7rem;
+      align-items: flex-start;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.2rem 41rem 0.2rem 0rem;
+
+      .github-logo-nfL {
+        flex-shrink: 0;
+        width: 7.4rem;
+        height: 6.2rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .linkedin-logo-KfG {
+        width: 7.7rem;
+        height: 6.2rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .email-logo-U2N {
+        width: 7.4rem;
+        height: 6.2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .rectangle-16-ar6 {
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      width: 12rem;
+      height: 10.9rem;
+    }
+  }
+}
